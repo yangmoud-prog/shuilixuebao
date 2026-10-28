@@ -1,0 +1,7 @@
+﻿event,model,RMSE_m3s,status
+Qingjiang_event_07,Linear Muskingum,882.0190907256282,候选资料 不写入论文
+Qingjiang_event_07,Nonlinear Muskingum,868.9696930413653,候选资料 不写入论文
+Qingjiang_event_07,RWEC,692.8975824544433,候选资料 不写入论文
+Qingjiang_event_08,Linear Muskingum,488.10905019117456,候选资料 不写入论文
+Qingjiang_event_08,Nonlinear Muskingum,446.7710845859214,候选资料 不写入论文
+Qingjiang_event_08,RWEC,372.2429296171403,候选资料 不写入论文

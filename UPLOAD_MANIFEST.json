@@ -1,0 +1,737 @@
+[
+  {
+    "path": ".gitattributes",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\.gitattributes",
+    "size": 9,
+    "original_path": ".gitattributes",
+    "original_sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+  },
+  {
+    "path": ".gitignore",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\.gitignore",
+    "size": 80,
+    "original_path": ".gitignore",
+    "original_sha256": "55f637575fbcf1df01d8f780a590573fc51290df4661384fef1af39eb34410bf"
+  },
+  {
+    "path": "00_返修总控与继续入口.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\00_返修总控与继续入口.md",
+    "size": 3618,
+    "original_path": "00_返修总控与继续入口.md",
+    "original_sha256": "867e2919232d28ec068d1d445f0c173baa512aa75a174d4990b4997ff8780bdd"
+  },
+  {
+    "path": "AGENTS.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\AGENTS.md",
+    "size": 753,
+    "original_path": "AGENTS.md",
+    "original_sha256": "180f6a7e8eabb7fdf2c80852f9f1f89a4ef66bdbe0c797e8bf520901b53fe20b"
+  },
+  {
+    "path": "checkpoint.json",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\checkpoint.json",
+    "size": 783,
+    "original_path": "checkpoint.json",
+    "original_sha256": "c58fffad721493032d586d347b64143895be4ce2e28d54d9645388a8c005a838"
+  },
+  {
+    "path": "README.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\README.md",
+    "size": 2224,
+    "original_path": "README.md",
+    "original_sha256": "b72097127af1175a7ab5ab53eb2cf71ca20a49557f240018e0bfe41f4a6b2040"
+  },
+  {
+    "path": "基于水能互补方程的河道洪水演算方法.docx",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\基于水能互补方程的河道洪水演算方法.docx",
+    "size": 3056180,
+    "original_path": "基于水能互补方程的河道洪水演算方法.docx",
+    "original_sha256": "1869e8b06ae1e57409b07900a543c8deaa8731f51c587846ea018125dc24d304"
+  },
+  {
+    "path": "水利学报_jhe20260716_审稿意见逐条回复模板.docx",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\水利学报_jhe20260716_审稿意见逐条回复模板.docx",
+    "size": 46188,
+    "original_path": "水利学报_jhe20260716_审稿意见逐条回复模板.docx",
+    "original_sha256": "c70d9371cf8675a0c8077abe15e40d34402f96ac8b5e92266cef911f6e814566"
+  },
+  {
+    "path": "返修协作稿.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\返修协作稿.md",
+    "size": 50343,
+    "original_path": "返修协作稿.md",
+    "original_sha256": "908d77c72c2afc5aa6f28ca3b18ef1b054463db543bd6d3f6749c2d8689ac1d1"
+  },
+  {
+    "path": "01_任务安排/13条审稿意见任务台账.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\01_任务安排\\13条审稿意见任务台账.csv",
+    "size": 1531,
+    "original_path": "01_任务安排/13条审稿意见任务台账.csv",
+    "original_sha256": "8f6f73d2693e709bf83ee4059aea72cea83ac6c63eca6632cb51a47830e08d4a"
+  },
+  {
+    "path": "01_任务安排/任务A_基准复现与时滞对照.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\01_任务安排\\任务A_基准复现与时滞对照.md",
+    "size": 2683,
+    "original_path": "01_任务安排/任务A_基准复现与时滞对照.md",
+    "original_sha256": "a27b81a157c3af44c51366dc0bbae8075331d58607a97f7865c9fc19ffd23897"
+  },
+  {
+    "path": "01_任务安排/任务B_洪峰与机理分析.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\01_任务安排\\任务B_洪峰与机理分析.md",
+    "size": 1731,
+    "original_path": "01_任务安排/任务B_洪峰与机理分析.md",
+    "original_sha256": "b24acb09047483ef85772af4fa140a0260d9e209cfe9cd8b883d887c2a36b897"
+  },
+  {
+    "path": "01_任务安排/任务C_论文和回复合稿.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\01_任务安排\\任务C_论文和回复合稿.md",
+    "size": 1132,
+    "original_path": "01_任务安排/任务C_论文和回复合稿.md",
+    "original_sha256": "0b41150f42c9a71c904f2741a50c6eff713401fd47a253cf96c10f60f4b9b8b7"
+  },
+  {
+    "path": "01_任务安排/任务D_图表与投稿核验.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\01_任务安排\\任务D_图表与投稿核验.md",
+    "size": 975,
+    "original_path": "01_任务安排/任务D_图表与投稿核验.md",
+    "original_sha256": "2e3ed7ba70a1908155e03fe2da30df1f708d37721c1a742fb77a3d0a1176d979"
+  },
+  {
+    "path": "01_任务安排/编辑部原始通知与13条意见.txt",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\01_任务安排\\编辑部原始通知与13条意见.txt",
+    "size": 9712,
+    "original_path": "01_任务安排/编辑部原始通知与13条意见.txt",
+    "original_sha256": "b9febcfd2547a7ba22b30a6a8de5d7dcb0cf828075e843767fc6e0e00f44d95b"
+  },
+  {
+    "path": "02_论文修改/原稿20式_LaTeX可编辑源.tex",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\02_论文修改\\原稿20式_LaTeX可编辑源.tex",
+    "size": 1849,
+    "original_path": "02_论文修改/原稿20式_LaTeX可编辑源.tex",
+    "original_sha256": "2e3d5644ccf9404bdcd243cce9f8fa673e12e6c4a7f0427b240c36b163ae5cfd"
+  },
+  {
+    "path": "02_论文修改/基于水能互补方程的河道洪水演算方法_返修工作稿_红字_20261028.docx",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\02_论文修改\\基于水能互补方程的河道洪水演算方法_返修工作稿_红字_20261028.docx",
+    "size": 2657232,
+    "original_path": "02_论文修改/基于水能互补方程的河道洪水演算方法_返修工作稿_红字_20261028.docx",
+    "original_sha256": "b8d777600e56efdb276f36120e232fa451eb5261007d865051ce8ee992746cd5"
+  },
+  {
+    "path": "02_论文修改/新增公式_LaTeX可编辑源.tex",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\02_论文修改\\新增公式_LaTeX可编辑源.tex",
+    "size": 698,
+    "original_path": "02_论文修改/新增公式_LaTeX可编辑源.tex",
+    "original_sha256": "92748244862ee11c1ae8450ae0e73cf6e1048c73eee2578d1daa153ec0c2c604"
+  },
+  {
+    "path": "03_逐条回复/水利学报_jhe20260716_逐条回复_工作版_20261028.docx",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\03_逐条回复\\水利学报_jhe20260716_逐条回复_工作版_20261028.docx",
+    "size": 45363,
+    "original_path": "03_逐条回复/水利学报_jhe20260716_逐条回复_工作版_20261028.docx",
+    "original_sha256": "e3e7de15696112936fa86db88c6aa4a9ae2d4b4285961b5fa4c008f695a001ee"
+  },
+  {
+    "path": "04_补充分析/36组_tau_Tp_残差与比值.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\36组_tau_Tp_残差与比值.csv",
+    "size": 3982,
+    "original_path": "04_补充分析/36组_tau_Tp_残差与比值.csv",
+    "original_sha256": "2d712e79698b21f73b9da35445aa9ca63e615b5ef19a4dc2c53674bcb82f2785"
+  },
+  {
+    "path": "04_补充分析/HEC_1080个测试过程_参照洪峰滞时.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\HEC_1080个测试过程_参照洪峰滞时.csv",
+    "size": 34516,
+    "original_path": "04_补充分析/HEC_1080个测试过程_参照洪峰滞时.csv",
+    "original_sha256": "f5943ba325cb9f10497ce3b0b587e522dc1efff8cdc8c8c5c81b60b81caa7d9e"
+  },
+  {
+    "path": "04_补充分析/HEC_峰时分解分组统计.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\HEC_峰时分解分组统计.csv",
+    "size": 1436,
+    "original_path": "04_补充分析/HEC_峰时分解分组统计.csv",
+    "original_sha256": "45f1789dc0d40d8ed78f998b86d9d2e2bef9ef2d8a232dc806904bc7f0c5ea60"
+  },
+  {
+    "path": "04_补充分析/HEC_逐场传播调蓄峰时分解.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\HEC_逐场传播调蓄峰时分解.csv",
+    "size": 104735,
+    "original_path": "04_补充分析/HEC_逐场传播调蓄峰时分解.csv",
+    "original_sha256": "66bc6bb2f836b2ee585fc55e8c90fd4eec59727c2714ec8e29b1ea4431248430"
+  },
+  {
+    "path": "04_补充分析/tau_Tp_按河槽分组统计.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\tau_Tp_按河槽分组统计.csv",
+    "size": 1305,
+    "original_path": "04_补充分析/tau_Tp_按河槽分组统计.csv",
+    "original_sha256": "93181b123f2543616c80d00358f99ed0160ec0f50c670923152d93974df12e60"
+  },
+  {
+    "path": "04_补充分析/tau_Tp_按距离分组统计.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\tau_Tp_按距离分组统计.csv",
+    "size": 2568,
+    "original_path": "04_补充分析/tau_Tp_按距离分组统计.csv",
+    "original_sha256": "f3499b773174607cff8a463e45c87099700023188e7572f68955b04719d6f83c"
+  },
+  {
+    "path": "04_补充分析/来源与哈希清单.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\来源与哈希清单.csv",
+    "size": 1422,
+    "original_path": "04_补充分析/来源与哈希清单.csv",
+    "original_sha256": "9f4d5a406a91904e0f217786b6bf3b9e10c85a1463f4ad817a5676d372ab449c"
+  },
+  {
+    "path": "04_补充分析/核查摘要.json",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\核查摘要.json",
+    "size": 7457,
+    "original_path": "04_补充分析/核查摘要.json",
+    "original_sha256": "d8e17e5c8abaffe927d602d88681e41d46a2ed98c19f0b8ea049db34e4987045"
+  },
+  {
+    "path": "04_补充分析/清江_候选资料核查_尚未匹配送审稿.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\清江_候选资料核查_尚未匹配送审稿.csv",
+    "size": 519,
+    "original_path": "04_补充分析/清江_候选资料核查_尚未匹配送审稿.csv",
+    "original_sha256": "459b53a805a79cf0e08f7966df0b93c6afe679c1ad97ccb6111edcacb4888cae"
+  },
+  {
+    "path": "04_补充分析/清江_送审表6四舍五入参数复算诊断.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\清江_送审表6四舍五入参数复算诊断.csv",
+    "size": 1188,
+    "original_path": "04_补充分析/清江_送审表6四舍五入参数复算诊断.csv",
+    "original_sha256": "04505ccd1517d9ccdd3f0f382a1c5fa9245cdeccd6c702fcbb6aabf9305690ee"
+  },
+  {
+    "path": "04_补充分析/笋溪河_测试期洪峰指标均值.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\笋溪河_测试期洪峰指标均值.csv",
+    "size": 301,
+    "original_path": "04_补充分析/笋溪河_测试期洪峰指标均值.csv",
+    "original_sha256": "f16cb51194a60a69befa57c0577beaaed9ea5cb643680ab26a8a7c25e16b75bc"
+  },
+  {
+    "path": "04_补充分析/笋溪河_逐场洪峰误差_已核实版本.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\04_补充分析\\笋溪河_逐场洪峰误差_已核实版本.csv",
+    "size": 1501,
+    "original_path": "04_补充分析/笋溪河_逐场洪峰误差_已核实版本.csv",
+    "original_sha256": "ae37f501d30843864c36e02195dfc2dab2efe0a8e203cc6bd777c34eef5affa2"
+  },
+  {
+    "path": "05_修订图件/图4_120km刻度修订.pdf",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图4_120km刻度修订.pdf",
+    "size": 34006,
+    "original_path": "05_修订图件/图4_120km刻度修订.pdf",
+    "original_sha256": "012f33ebfcc11806d4dc6a12df21aef069e6167b1e3181cde405cb522978b15d"
+  },
+  {
+    "path": "05_修订图件/图4_120km刻度修订.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图4_120km刻度修订.png",
+    "size": 145202,
+    "original_path": "05_修订图件/图4_120km刻度修订.png",
+    "original_sha256": "e16e77dfe031543476bc7ba3348837792b74b6b5edcd080252aeb5d6d154ecd6"
+  },
+  {
+    "path": "05_修订图件/图4_120km刻度修订.svg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图4_120km刻度修订.svg",
+    "size": 54886,
+    "original_path": "05_修订图件/图4_120km刻度修订.svg",
+    "original_sha256": "c2925a6148c89a94d87df47b137ec30dfc2fe6bca0f48a8ae99502cfd158445a"
+  },
+  {
+    "path": "05_修订图件/图4_120km刻度修订.tiff",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图4_120km刻度修订.tiff",
+    "size": 637958,
+    "original_path": "05_修订图件/图4_120km刻度修订.tiff",
+    "original_sha256": "54f8542f775ce4a3e91c5558289f9e9f1e7fdfc2edf18dd65f6328c527c64a18"
+  },
+  {
+    "path": "05_修订图件/图6_120km刻度修订.pdf",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图6_120km刻度修订.pdf",
+    "size": 40755,
+    "original_path": "05_修订图件/图6_120km刻度修订.pdf",
+    "original_sha256": "24dc8666bbb2d7858e12d440d7f30d09ee624db1ab5347c0684f0c8a2659c33e"
+  },
+  {
+    "path": "05_修订图件/图6_120km刻度修订.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图6_120km刻度修订.png",
+    "size": 280277,
+    "original_path": "05_修订图件/图6_120km刻度修订.png",
+    "original_sha256": "c59ac98bc429222c77a7bf76f5716de0ef4cbc06d66d791c3e43ccde89757b39"
+  },
+  {
+    "path": "05_修订图件/图6_120km刻度修订.svg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图6_120km刻度修订.svg",
+    "size": 100813,
+    "original_path": "05_修订图件/图6_120km刻度修订.svg",
+    "original_sha256": "6e1f28eafecc1bb13ea9baef995f677ca42adf5bee9362028c4170db495bcfac"
+  },
+  {
+    "path": "05_修订图件/图6_120km刻度修订.tiff",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图6_120km刻度修订.tiff",
+    "size": 1207556,
+    "original_path": "05_修订图件/图6_120km刻度修订.tiff",
+    "original_sha256": "9e50789f539c1ea478eb0c1e133168fb33c570d156b4ecbbe492d69d15c26c8d"
+  },
+  {
+    "path": "05_修订图件/图7_残差与比值补充.pdf",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图7_残差与比值补充.pdf",
+    "size": 35210,
+    "original_path": "05_修订图件/图7_残差与比值补充.pdf",
+    "original_sha256": "fb8676c767374fb5976d0c9a1bdedbf8ac41926594c4db3446d02b0f729a37cd"
+  },
+  {
+    "path": "05_修订图件/图7_残差与比值补充.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图7_残差与比值补充.png",
+    "size": 137941,
+    "original_path": "05_修订图件/图7_残差与比值补充.png",
+    "original_sha256": "31529eb71d15e86150820b4f254b9a278e8d03d4b4e9bd3ca7a29d0de5d19a9e"
+  },
+  {
+    "path": "05_修订图件/图7_残差与比值补充.svg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图7_残差与比值补充.svg",
+    "size": 49497,
+    "original_path": "05_修订图件/图7_残差与比值补充.svg",
+    "original_sha256": "910aadde7a08908e896b69dd6fb83e24454b42b8dc16fe2b40c64a89c7f2cbe1"
+  },
+  {
+    "path": "05_修订图件/图7_残差与比值补充.tiff",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图7_残差与比值补充.tiff",
+    "size": 603580,
+    "original_path": "05_修订图件/图7_残差与比值补充.tiff",
+    "original_sha256": "84335e016c673f1d6726113e538d1f13ccf8e563e8ad18cd2b9ef8810833827e"
+  },
+  {
+    "path": "05_修订图件/图件核验.json",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\图件核验.json",
+    "size": 388,
+    "original_path": "05_修订图件/图件核验.json",
+    "original_sha256": "d6d3e351fc2004cc962d7f75c7a32465d3ff5c3145b36523419be2a1d738640a"
+  },
+  {
+    "path": "05_修订图件/正文_image1.jpeg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image1.jpeg",
+    "size": 232923,
+    "original_path": "05_修订图件/正文_image1.jpeg",
+    "original_sha256": "bf195e64bc8e9e9993e99fa1dbb08f939d2ccab56f86b3447832a434ef92454a"
+  },
+  {
+    "path": "05_修订图件/正文_image10.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image10.png",
+    "size": 137941,
+    "original_path": "05_修订图件/正文_image10.png",
+    "original_sha256": "31529eb71d15e86150820b4f254b9a278e8d03d4b4e9bd3ca7a29d0de5d19a9e"
+  },
+  {
+    "path": "05_修订图件/正文_image11.jpeg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image11.jpeg",
+    "size": 241283,
+    "original_path": "05_修订图件/正文_image11.jpeg",
+    "original_sha256": "b9079a08607b3fc9f72d91f5c20702eea39909ad2535b40819f20afc4f26e820"
+  },
+  {
+    "path": "05_修订图件/正文_image12.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image12.png",
+    "size": 126169,
+    "original_path": "05_修订图件/正文_image12.png",
+    "original_sha256": "105dfc343f3536ead79f38fa6972655124c0c74a183ef891d89d79d6e38bc495"
+  },
+  {
+    "path": "05_修订图件/正文_image2.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image2.png",
+    "size": 130870,
+    "original_path": "05_修订图件/正文_image2.png",
+    "original_sha256": "6d31c1220fa270ab1e53e551fc1e38bfdbd709359cb3032c7fca04c6f6f8326d"
+  },
+  {
+    "path": "05_修订图件/正文_image3.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image3.png",
+    "size": 519835,
+    "original_path": "05_修订图件/正文_image3.png",
+    "original_sha256": "b0ad3cee17e1901b8a87f5ed8c6cb62c87ca2762f4eee6f6da64a4ac9713e285"
+  },
+  {
+    "path": "05_修订图件/正文_image4.png",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image4.png",
+    "size": 145202,
+    "original_path": "05_修订图件/正文_image4.png",
+    "original_sha256": "e16e77dfe031543476bc7ba3348837792b74b6b5edcd080252aeb5d6d154ecd6"
+  },
+  {
+    "path": "05_修订图件/正文_image5.jpeg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image5.jpeg",
+    "size": 419919,
+    "original_path": "05_修订图件/正文_image5.jpeg",
+    "original_sha256": "882dea137c794a8ac81121dbc2209deab4213401c8464940ce8bc0d057dee663"
+  },
+  {
+    "path": "05_修订图件/正文_image6.jpeg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image6.jpeg",
+    "size": 400140,
+    "original_path": "05_修订图件/正文_image6.jpeg",
+    "original_sha256": "1b5769393c8018cd7c553fd130609597d44e00e1a8e98ee56deb07577df9fc70"
+  },
+  {
+    "path": "05_修订图件/正文_image7.jpeg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image7.jpeg",
+    "size": 429486,
+    "original_path": "05_修订图件/正文_image7.jpeg",
+    "original_sha256": "e0d32c69cb29793b98f7b47b4de5be576992020b2dea040c8859436343199662"
+  },
+  {
+    "path": "05_修订图件/正文_image8.jpeg",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\05_修订图件\\正文_image8.jpeg",
+    "size": 487587,
+    "original_path": "05_修订图件/正文_image8.jpeg",
+    "original_sha256": "3a639592dc944e34f534fa4bce56ba62c9d50a8295957cbc22abe126fdd44af7"
+  },
+  {
+    "path": "06_复现与核验/analyze_revision.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\06_复现与核验\\analyze_revision.py",
+    "size": 6940,
+    "original_path": "06_复现与核验/analyze_revision.py",
+    "original_sha256": "5a047ae91732602226ca4b0bf706e651df3b05ba05655785220fe6a88ff4b8b5"
+  },
+  {
+    "path": "06_复现与核验/build_revision.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\06_复现与核验\\build_revision.py",
+    "size": 46536,
+    "original_path": "06_复现与核验/build_revision.py",
+    "original_sha256": "b1f3e9f4da2b38dec50bf37c56b2c94e101da6b2ba75c07706a8e60b3f88722e"
+  },
+  {
+    "path": "06_复现与核验/draw_revision.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\06_复现与核验\\draw_revision.py",
+    "size": 4812,
+    "original_path": "06_复现与核验/draw_revision.py",
+    "original_sha256": "13e63dec2aaab4ec080c1dd35351ca839313539f2afd291b3b1f19d835c07a19"
+  },
+  {
+    "path": "06_复现与核验/requirements.txt",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\06_复现与核验\\requirements.txt",
+    "size": 86,
+    "original_path": "06_复现与核验/requirements.txt",
+    "original_sha256": "937ac229efc6db8ba4541b2a8843a24e71ef7578ba815042e501148b09fefd57"
+  },
+  {
+    "path": "06_复现与核验/文档保留与修改约定.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\06_复现与核验\\文档保留与修改约定.md",
+    "size": 2054,
+    "original_path": "06_复现与核验/文档保留与修改约定.md",
+    "original_sha256": "aef07ab93bb8ecff2d4eab92c04ff259e03fa7e23f959b27a2f8db19c06b9b39"
+  },
+  {
+    "path": "06_复现与核验/文档结构核验.json",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\06_复现与核验\\文档结构核验.json",
+    "size": 1064,
+    "original_path": "06_复现与核验/文档结构核验.json",
+    "original_sha256": "56fa199f3d72e37e6db83d1acf288855947fa15254eef6f12069ba6f5355b84f"
+  },
+  {
+    "path": "06_复现与核验/正文修改对照.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\06_复现与核验\\正文修改对照.csv",
+    "size": 19447,
+    "original_path": "06_复现与核验/正文修改对照.csv",
+    "original_sha256": "23e3416ca8449794216bd3e871f29ecd68d83254a1ad6838fb77108c3d8734ce"
+  },
+  {
+    "path": "07_接续资料/依赖文件清单.json",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\依赖文件清单.json",
+    "size": 16841,
+    "original_path": "07_接续资料/依赖文件清单.json",
+    "original_sha256": "5061463f26aaab517c4811ffbd60802cbae5bdbe02b51f0763228fb3539e7411"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/routing.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\routing.py",
+    "size": 50781,
+    "original_path": "07_接续资料/source_snapshot/Code/routing.py",
+    "original_sha256": "a2688718cd2779f5e28e6eed9776fd1857b3c207281673fb80b9d732d2192e6a"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/routing_aut_complement_3p.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\routing_aut_complement_3p.py",
+    "size": 39532,
+    "original_path": "07_接续资料/source_snapshot/Code/routing_aut_complement_3p.py",
+    "original_sha256": "67892d64374719df7b54aadef73b633a056a6ca22c5f220af06f2f74fd4e5404"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/routing_hecras_final.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\routing_hecras_final.py",
+    "size": 24284,
+    "original_path": "07_接续资料/source_snapshot/Code/routing_hecras_final.py",
+    "original_sha256": "9b394851ff16d3c0cb28a8d41887681f0e6e5a02d24ca503fd92a1a6803944fb"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/routing_nonlinear_muskingum_final.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\routing_nonlinear_muskingum_final.py",
+    "size": 17480,
+    "original_path": "07_接续资料/source_snapshot/Code/routing_nonlinear_muskingum_final.py",
+    "original_sha256": "e6b5bbba2cc7d43dada97d8e3e458939eb6efddc40c21a2bb0e7b1d2f2fece88"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/routing_real10_final.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\routing_real10_final.py",
+    "size": 25034,
+    "original_path": "07_接续资料/source_snapshot/Code/routing_real10_final.py",
+    "original_sha256": "8efa4c012b8e43a9414848278d161b2a3ac5df05d6031007c6c2b16bd9d294a1"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/plot_test_metrics_boxplots_wide.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\plot_test_metrics_boxplots_wide.py",
+    "size": 27207,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/plot_test_metrics_boxplots_wide.py",
+    "original_sha256": "121b8b5b87feb57f21f0ced379d9fc4d66702e24488711d05d2d6d518bf6f24c"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_code/plot_qingjiang_test_hydrographs.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_code\\plot_qingjiang_test_hydrographs.py",
+    "size": 12448,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_code/plot_qingjiang_test_hydrographs.py",
+    "original_sha256": "88a809140aa12b721df29f9a23c168b7d7af34be0658f73cb9d800d0c891c4df"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_data/Fig_04_lmcs_k_n_tau_patterns_source_data.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_04_lmcs_k_n_tau_patterns_source_data.csv",
+    "size": 5722,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_data/Fig_04_lmcs_k_n_tau_patterns_source_data.csv",
+    "original_sha256": "d154a0463d2b646559669aea767648d4518b14f1b6ade3e18714a30d7e656009"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_data/Fig_06_slope_parameter_2d_source_data.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_06_slope_parameter_2d_source_data.csv",
+    "size": 5118,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_data/Fig_06_slope_parameter_2d_source_data.csv",
+    "original_sha256": "1364259aae0ea94320ad59ab12ceb6f5463980feb0e19a3471e6505d7734f92c"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_data/Fig_07_roughness_parameter_2d_source_data.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_07_roughness_parameter_2d_source_data.csv",
+    "size": 5213,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/figure_data/Fig_07_roughness_parameter_2d_source_data.csv",
+    "original_sha256": "6c50a13f1da7aeb4d352b6ba7f6375f7441d6534969b59e3d29d342ef794f2e6"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/rerun_sunxi_from_f08_balanced_input_20260920.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\rerun_sunxi_from_f08_balanced_input_20260920.py",
+    "size": 2255,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/rerun_sunxi_from_f08_balanced_input_20260920.py",
+    "original_sha256": "32ba14e7eb976e7a74f9b865f9be901480a5f535cc6ceddbc365c38ab3422712"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing.py",
+    "size": 50781,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing.py",
+    "original_sha256": "a2688718cd2779f5e28e6eed9776fd1857b3c207281673fb80b9d732d2192e6a"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_aut_complement_3p.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_aut_complement_3p.py",
+    "size": 39532,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_aut_complement_3p.py",
+    "original_sha256": "67892d64374719df7b54aadef73b633a056a6ca22c5f220af06f2f74fd4e5404"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_hecras_final.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_hecras_final.py",
+    "size": 24284,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_hecras_final.py",
+    "original_sha256": "9b394851ff16d3c0cb28a8d41887681f0e6e5a02d24ca503fd92a1a6803944fb"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_nonlinear_muskingum_final.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_nonlinear_muskingum_final.py",
+    "size": 17480,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_nonlinear_muskingum_final.py",
+    "original_sha256": "e6b5bbba2cc7d43dada97d8e3e458939eb6efddc40c21a2bb0e7b1d2f2fece88"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_real10_final.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_real10_final.py",
+    "size": 25034,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_real10_final.py",
+    "original_sha256": "8efa4c012b8e43a9414848278d161b2a3ac5df05d6031007c6c2b16bd9d294a1"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_sunxi_latest_20260901.py",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_sunxi_latest_20260901.py",
+    "size": 18112,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/model_code/routing_sunxi_latest_20260901.py",
+    "original_sha256": "0b5d27b3cf7426532c28384c58ac174e89e216ec0fac56019ea77f20928fe10a"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/final_figures/笋溪河清江_两图两子图_20260919/清江两场测试洪水过程_source_data.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\final_figures\\笋溪河清江_两图两子图_20260919\\清江两场测试洪水过程_source_data.csv",
+    "size": 17304,
+    "original_path": "07_接续资料/source_snapshot/Code/figure code/paper_final_20260831/final_figures/笋溪河清江_两图两子图_20260919/清江两场测试洪水过程_source_data.csv",
+    "original_sha256": "0cbe9e12ca025ddf9c42a923cf6fa8caa39bc7f539bd11592b22b97a671b46d7"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/data/Qingjiang_flood_events.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\data\\Qingjiang_flood_events.csv",
+    "size": 6003,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/data/Qingjiang_flood_events.csv",
+    "original_sha256": "5c9e11611f2ee7d8994ba35427feb932308b0c7dc00433b6cf16d46a090294c3"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/05_extracted_flow/corrected_full100_1km_warm72h/G1_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G1_hydrographs.csv.gz",
+    "size": 1557006,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/05_extracted_flow/corrected_full100_1km_warm72h/G1_hydrographs.csv",
+    "original_sha256": "a88c96ad50bb018c29bebb27a7473c0a128e9616b8e901b988594a8f86e76012"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/05_extracted_flow/corrected_full100_1km_warm72h/G2_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G2_hydrographs.csv.gz",
+    "size": 1564197,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/05_extracted_flow/corrected_full100_1km_warm72h/G2_hydrographs.csv",
+    "original_sha256": "7de9028ff01afcec02549fb55253997b50c1bbd7fd493dcf06068d252d27f97c"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/05_extracted_flow/corrected_full100_1km_warm72h/G3_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G3_hydrographs.csv.gz",
+    "size": 1562921,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/05_extracted_flow/corrected_full100_1km_warm72h/G3_hydrographs.csv",
+    "original_sha256": "27e02c9c064b92350ced04e535eecb951a4d73e12b3bbda92832e20b5e1bb3fb"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/calibrated_parameters_all48.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\calibrated_parameters_all48.csv",
+    "size": 26768,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/calibrated_parameters_all48.csv",
+    "original_sha256": "908834e99683f747098f0115a2d33bec15ed8f8e35d2a9e6967061a9f2fbf587"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/inflow_manifest_100.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\inflow_manifest_100.csv",
+    "size": 29561,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/inflow_manifest_100.csv",
+    "original_sha256": "80609028e19a889d3822d01586dd4e4596eb973a197b3a00add36580e53e49e8"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/parameter_boundary_diagnostics.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\parameter_boundary_diagnostics.csv",
+    "size": 722,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/parameter_boundary_diagnostics.csv",
+    "original_sha256": "b9157ee67287a31afaf0bb9a7dbb355bade6272c21b0fd66310c61e5d1012838"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/test_event_metrics.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\test_event_metrics.csv.gz",
+    "size": 341142,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/random_inflow_generalization_100/08_summary/042_gpt_key_materials_corrected_full100/data/test_event_metrics.csv",
+    "original_sha256": "c01d9357d5a47e58bdedb9de8932b4abcedbadd6f330d7803ef8b88d8cbfbe55"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0001_N035_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0001_N035_hydrographs.csv.gz",
+    "size": 1752904,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0001_N035_hydrographs.csv",
+    "original_sha256": "ae05a3884423c6692ac5c5ed1751ab50a0fc5e938b5edfce8790528570bb22ec"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0002_N025_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N025_hydrographs.csv.gz",
+    "size": 1496059,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0002_N025_hydrographs.csv",
+    "original_sha256": "80a27157e857471d74effe1187cbe312a69cd7dc520a525fa0bba988e174d967"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0002_N035_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N035_hydrographs.csv.gz",
+    "size": 1562929,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0002_N035_hydrographs.csv",
+    "original_sha256": "27e02c9c064b92350ced04e535eecb951a4d73e12b3bbda92832e20b5e1bb3fb"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0002_N050_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N050_hydrographs.csv.gz",
+    "size": 1672939,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0002_N050_hydrographs.csv",
+    "original_sha256": "bffe770837183a0a1349d58a8bca0e275142f847b1c7db742a850b6a13274b1d"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0005_N035_hydrographs.csv.gz",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0005_N035_hydrographs.csv.gz",
+    "size": 1428264,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/05_extracted_flow/formal100/S0005_N035_hydrographs.csv",
+    "original_sha256": "932fff79b49e8da806a9d1f0de08422e8ec6870aa3be1cedcdc755bd4323e18c"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/06_calibration/002_roughness_slope_three_models/calibrated_parameters.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\06_calibration\\002_roughness_slope_three_models\\calibrated_parameters.csv",
+    "size": 34954,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/06_calibration/002_roughness_slope_three_models/calibrated_parameters.csv",
+    "original_sha256": "2884f80d56243df52b5c8893e6beeed3e633a0e4ac33d1a4243b7e91d64d7fd6"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/08_summary/002_roughness_slope_three_models/overall_summary.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\overall_summary.csv",
+    "size": 85708,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/08_summary/002_roughness_slope_three_models/overall_summary.csv",
+    "original_sha256": "36f44183faa3c52d38a3c61fd0d3a365fa1a0d8a3c9b9a6d5b7a19158cc58bdb"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/08_summary/002_roughness_slope_three_models/run_settings.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\run_settings.csv",
+    "size": 959,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/08_summary/002_roughness_slope_three_models/run_settings.csv",
+    "original_sha256": "d3bb2c3c853abfb0d56bd14a6fe42966ba419598474d3a6abffd61b987a3ecfa"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/08_summary/002_roughness_slope_three_models/target_output_manifest.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\target_output_manifest.csv",
+    "size": 28771,
+    "original_path": "07_接续资料/source_snapshot/HECRAS/roughness_slope_generalization_100/08_summary/002_roughness_slope_three_models/target_output_manifest.csv",
+    "original_sha256": "dea52f92f7d96bce1c684bafc8a058528775107bc7f21e01355c90c24d42e877"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Result/多场率定/数据/当前笋溪河数据基准.md",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\当前笋溪河数据基准.md",
+    "size": 658,
+    "original_path": "07_接续资料/source_snapshot/Result/多场率定/数据/当前笋溪河数据基准.md",
+    "original_sha256": "0c712ab9a4fd8f0691e463a9f3db95540c8ea086b2c8ba26de6235f0080ddcdf"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/input/9场_F08上游洪量配平_去除空行快照.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\input\\9场_F08上游洪量配平_去除空行快照.csv",
+    "size": 36956,
+    "original_path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/input/9场_F08上游洪量配平_去除空行快照.csv",
+    "original_sha256": "29631206f58d9b42324e2bfcdee08e66c807091686063c8c9a8c5b7cf8c8eaa6"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/参数与假设.json",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\参数与假设.json",
+    "size": 7480,
+    "original_path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/参数与假设.json",
+    "original_sha256": "8648c3d81f9cb8d21fb4dc34bf23d7a42bab854b810e6d8ff653de7eccdab454"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/率定测试总体统计.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\率定测试总体统计.csv",
+    "size": 799,
+    "original_path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/率定测试总体统计.csv",
+    "original_sha256": "88f8959b22d3fd948a632086a19689721b8ff5ec7b5e4f1a6f4fd008391194bd"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/输入快照.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\输入快照.csv",
+    "size": 36956,
+    "original_path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/输入快照.csv",
+    "original_sha256": "29631206f58d9b42324e2bfcdee08e66c807091686063c8c9a8c5b7cf8c8eaa6"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/逐场三模型指标.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\逐场三模型指标.csv",
+    "size": 4094,
+    "original_path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/逐场三模型指标.csv",
+    "original_sha256": "6badfa53cf85933436264d76867345e7087206bdb5c7c84a28f2e192204c5ec1"
+  },
+  {
+    "path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/逐时三模型模拟.csv",
+    "local": "C:\\Users\\mryan\\Documents\\Codex\\2026-10-28\\chatgpt-conversation-6ae0a9a9-1ebc-83ee-a152-3\\work\\git_upload\\07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\逐时三模型模拟.csv",
+    "size": 156840,
+    "original_path": "07_接续资料/source_snapshot/Result/多场率定/数据/笋溪河_F08上游洪量配平数据直跑_20260920/model_results/逐时三模型模拟.csv",
+    "original_sha256": "52e8506a88079786ba5c06330e97fa88fd76fdc529b1afe27abfdfffb2f4711f"
+  }
+]

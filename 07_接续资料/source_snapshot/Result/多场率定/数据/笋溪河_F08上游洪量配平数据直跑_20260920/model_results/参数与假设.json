@@ -1,0 +1,255 @@
+{
+  "assumptions": {
+    "input_file": "9场_F08上游洪量配平_去除空行快照.csv",
+    "input_sha256": "29631206f58d9b42324e2bfcdee08e66c807091686063c8c9a8c5b7cf8c8eaa6",
+    "input_rows": 652,
+    "calibration_events": [
+      "P08_F01",
+      "P08_F02",
+      "P08_F05",
+      "P08_F06",
+      "P08_F07",
+      "P08_F11",
+      "P08_F12"
+    ],
+    "test_events": [
+      "P08_F08",
+      "P08_F09F10"
+    ],
+    "dt_h": 1.0,
+    "objective": "7场率定事件等权平均(1-NSE)，无效候选惩罚1e6",
+    "initial_conditions": {
+      "all_models": "Q[0]=observed O[0] exactly",
+      "T-RWEC": "explicit lagged complement recurrence; S0 is positive steady complement solution under constant pre-record inflow O0; before-arrival lag inflow is O0",
+      "nonlinear_Muskingum": "S0=K*(X*I0+(1-X)*O0)^m; Q0=O0; t>=1 solves trapezoidal continuity equation",
+      "linear_Muskingum": "Q0=O0; t>=1 uses Muskingum recurrence"
+    },
+    "delayed_inflow": "for u=t-tau<0 use O0; otherwise pointwise linear interpolation of supplied I ordinates",
+    "bounds": {
+      "T-RWEC": {
+        "k": [
+          1e-06,
+          20.0
+        ],
+        "n": [
+          0.01,
+          300.0
+        ],
+        "tau_h": [
+          2.0,
+          16.0
+        ]
+      },
+      "非线性马斯京根": {
+        "Tref_h": [
+          0.05,
+          500.0
+        ],
+        "X": [
+          0.0,
+          0.3
+        ],
+        "m": [
+          0.2,
+          8.0
+        ],
+        "Qref": 267.41783415
+      },
+      "线性马斯京根": {
+        "K_h": [
+          0.5,
+          150.0
+        ],
+        "X": [
+          0.0,
+          0.5
+        ]
+      }
+    },
+    "tau_lag_diagnostic": {
+      "P08_F01": {
+        "best_lag_h": 8,
+        "log1p_corr": 0.9314134159018812
+      },
+      "P08_F02": {
+        "best_lag_h": 8,
+        "log1p_corr": 0.8804207940831398
+      },
+      "P08_F05": {
+        "best_lag_h": 3,
+        "log1p_corr": 0.9712051099888831
+      },
+      "P08_F06": {
+        "best_lag_h": 7,
+        "log1p_corr": 0.9683809833336972
+      },
+      "P08_F07": {
+        "best_lag_h": 7,
+        "log1p_corr": 0.9492730294331586
+      },
+      "P08_F11": {
+        "best_lag_h": 10,
+        "log1p_corr": 0.8591417768729693
+      },
+      "P08_F12": {
+        "best_lag_h": 8,
+        "log1p_corr": 0.9539819173760302
+      }
+    },
+    "lag_median_h": 8.0,
+    "optimizer": {
+      "method": "differential_evolution",
+      "seed_T_RWEC": 20260828,
+      "seed_Muskingum": 20260829,
+      "popsize": 8,
+      "maxiter_initial": 60,
+      "maxiter_nonlinear_refit": null,
+      "tol": 1e-07,
+      "polish": true,
+      "log_parameterization": "T-RWEC k,n; nonlinear Tref,m",
+      "nonlinear_refit_x0": null
+    },
+    "linear_X_parameterization": "DE variable u in [0,1]; X=u*max(0,min(0.5,1-dt/(2K),dt/(2K))) so recurrence coefficients are nonnegative",
+    "nonlinear_X_stability_constraint": "single reach and one fixed parameter set for every event; X is calibrated within [0,0.15] to retain a positive-root margin under the steepest rising limb; no event-specific adjustment, no cascading, no clipping",
+    "nonlinear_root_policy": "strict nonnegative brentq root; no clipping; invalid test trajectory is reported as NaN and never refit",
+    "reconstruction_limit": "Original routing modules were unavailable; this is equation-level reconstruction from the supplied call arguments and cannot claim exact internal reproduction."
+  },
+  "fits": {
+    "T-RWEC": {
+      "parameters": [
+        0.21217301014656742,
+        6.606051848826362,
+        6.73946377236289
+      ],
+      "objective": 0.1308130915236573,
+      "seed": 20260828,
+      "success": true,
+      "message": "Optimization terminated successfully.",
+      "nfev": 1088
+    },
+    "线性马斯京根": {
+      "parameters": [
+        9.737919693116623,
+        0.05134566194736885
+      ],
+      "objective": 0.25116887461793463,
+      "seed": 20260829,
+      "success": true,
+      "message": "Optimization terminated successfully.",
+      "nfev": 595
+    },
+    "非线性马斯京根": {
+      "parameters": [
+        7.718726417271115,
+        0.1978197373556629,
+        0.7842333538941944
+      ],
+      "objective": 0.18490174480805704,
+      "seed": 20260829,
+      "success": false,
+      "message": "Maximum number of iterations has been exceeded.",
+      "nfev": 1652
+    }
+  },
+  "selected_parameters": {
+    "T-RWEC": [
+      0.21217301014656742,
+      6.606051848826362,
+      6.73946377236289
+    ],
+    "非线性马斯京根": [
+      7.718726417271115,
+      0.1978197373556629,
+      0.7842333538941944
+    ],
+    "线性马斯京根": [
+      9.737919693116623,
+      0.05134566194736885
+    ]
+  },
+  "selected_parameters_physical": {
+    "T-RWEC": {
+      "k": 0.21217301014656742,
+      "n": 6.606051848826362,
+      "tau_h": 6.73946377236289
+    },
+    "非线性马斯京根": {
+      "Tref_h": 7.718726417271115,
+      "X": 0.1978197373556629,
+      "m": 0.7842333538941944,
+      "Qref_m3s": 267.41783415
+    },
+    "线性马斯京根": {
+      "K_h": 9.737919693116623,
+      "X": 0.05134566194736885
+    }
+  },
+  "summary": [
+    {
+      "模型": "T-RWEC",
+      "数据用途": "率定",
+      "事件总数": 7,
+      "有效数": 7,
+      "平均NSE": 0.8691869084763427,
+      "平均KGE": 0.8454315520839509,
+      "平均RMSE_m3s": 18.17103568804619,
+      "平均绝对峰差_percent": 8.58582047085248,
+      "平均绝对时差_h": 1.2857142857142858
+    },
+    {
+      "模型": "T-RWEC",
+      "数据用途": "测试",
+      "事件总数": 2,
+      "有效数": 2,
+      "平均NSE": 0.9304638331685116,
+      "平均KGE": 0.9195094350915509,
+      "平均RMSE_m3s": 9.43193102995301,
+      "平均绝对峰差_percent": 5.7796519730574065,
+      "平均绝对时差_h": 0.5
+    },
+    {
+      "模型": "非线性马斯京根",
+      "数据用途": "率定",
+      "事件总数": 7,
+      "有效数": 7,
+      "平均NSE": 0.815098255191943,
+      "平均KGE": 0.7966918664551758,
+      "平均RMSE_m3s": 22.30102178178478,
+      "平均绝对峰差_percent": 16.77464558430902,
+      "平均绝对时差_h": 5.428571428571429
+    },
+    {
+      "模型": "非线性马斯京根",
+      "数据用途": "测试",
+      "事件总数": 2,
+      "有效数": 2,
+      "平均NSE": 0.8822301994758698,
+      "平均KGE": 0.9031950444129769,
+      "平均RMSE_m3s": 11.934790516169649,
+      "平均绝对峰差_percent": 20.30928786153354,
+      "平均绝对时差_h": 15.0
+    },
+    {
+      "模型": "线性马斯京根",
+      "数据用途": "率定",
+      "事件总数": 7,
+      "有效数": 7,
+      "平均NSE": 0.7488311253820654,
+      "平均KGE": 0.727502759864861,
+      "平均RMSE_m3s": 26.670046845533005,
+      "平均绝对峰差_percent": 21.767491097091924,
+      "平均绝对时差_h": 5.0
+    },
+    {
+      "模型": "线性马斯京根",
+      "数据用途": "测试",
+      "事件总数": 2,
+      "有效数": 2,
+      "平均NSE": 0.8326681290943658,
+      "平均KGE": 0.8401098194600115,
+      "平均RMSE_m3s": 14.266612782553874,
+      "平均绝对峰差_percent": 24.441860289355134,
+      "平均绝对时差_h": 15.0
+    }
+  ]
+}

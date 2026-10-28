@@ -1,0 +1,17 @@
+﻿setting,value
+dataset,E:\01-HUST\Nature\03\HECRAS\roughness_slope_generalization_100\05_extracted_flow\formal100
+hydraulic_conditions,"S0002_N035,S0001_N035,S0005_N035,S0002_N025,S0002_N050"
+distances_km,"10,20,30,40,50,60,70,80,90,100,110,120"
+train_test,70 training / 30 fully withheld test events
+objective,equal mean of small/medium/large event-normalized SSE
+LMCS_parameters,"k,n,tau; solved S0; total inflow; normal recurrence before tau"
+LMCS_bounds,"k=(1e-06, 100.0); n=(0.01, 300.0); tau_h=(0.0, 150.0)"
+nonlinear_parameters,"T_ref,X,m; K_power derived at Q_ref"
+nonlinear_bounds,"T_ref_h=(0.05, 500.0); X=(0,0.5); m=(0.2, 8.0)"
+nonlinear_feasibility_scope,all 100 upstream inflows; objective uses only 70 training downstream hydrographs
+nonlinear_feasibility,strict continuity; relative buffer=1e-07
+linear_parameters,"K,X; C0,C1,C2 constrained nonnegative"
+linear_K_bounds_h,"(0.5001, 150.0)"
+maxiter,50
+popsize,7
+seed,20260814

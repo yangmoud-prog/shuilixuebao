@@ -1,0 +1,254 @@
+[
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\figure_code\\plot_qingjiang_test_hydrographs.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_code\\plot_qingjiang_test_hydrographs.py",
+    "bytes": 12448,
+    "sha256": "88a809140aa12b721df29f9a23c168b7d7af34be0658f73cb9d800d0c891c4df"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_04_lmcs_k_n_tau_patterns_source_data.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_04_lmcs_k_n_tau_patterns_source_data.csv",
+    "bytes": 5722,
+    "sha256": "d154a0463d2b646559669aea767648d4518b14f1b6ade3e18714a30d7e656009"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_06_slope_parameter_2d_source_data.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_06_slope_parameter_2d_source_data.csv",
+    "bytes": 5118,
+    "sha256": "1364259aae0ea94320ad59ab12ceb6f5463980feb0e19a3471e6505d7734f92c"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_07_roughness_parameter_2d_source_data.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\figure_data\\Fig_07_roughness_parameter_2d_source_data.csv",
+    "bytes": 5213,
+    "sha256": "6c50a13f1da7aeb4d352b6ba7f6375f7441d6534969b59e3d29d342ef794f2e6"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\final_figures\\笋溪河清江_两图两子图_20260919\\清江两场测试洪水过程_source_data.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\final_figures\\笋溪河清江_两图两子图_20260919\\清江两场测试洪水过程_source_data.csv",
+    "bytes": 17304,
+    "sha256": "0cbe9e12ca025ddf9c42a923cf6fa8caa39bc7f539bd11592b22b97a671b46d7"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\model_code\\rerun_sunxi_from_f08_balanced_input_20260920.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\rerun_sunxi_from_f08_balanced_input_20260920.py",
+    "bytes": 2255,
+    "sha256": "32ba14e7eb976e7a74f9b865f9be901480a5f535cc6ceddbc365c38ab3422712"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\model_code\\routing.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing.py",
+    "bytes": 50781,
+    "sha256": "a2688718cd2779f5e28e6eed9776fd1857b3c207281673fb80b9d732d2192e6a"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\model_code\\routing_aut_complement_3p.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_aut_complement_3p.py",
+    "bytes": 39532,
+    "sha256": "67892d64374719df7b54aadef73b633a056a6ca22c5f220af06f2f74fd4e5404"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\model_code\\routing_hecras_final.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_hecras_final.py",
+    "bytes": 24284,
+    "sha256": "9b394851ff16d3c0cb28a8d41887681f0e6e5a02d24ca503fd92a1a6803944fb"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\model_code\\routing_nonlinear_muskingum_final.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_nonlinear_muskingum_final.py",
+    "bytes": 17480,
+    "sha256": "e6b5bbba2cc7d43dada97d8e3e458939eb6efddc40c21a2bb0e7b1d2f2fece88"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\model_code\\routing_real10_final.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_real10_final.py",
+    "bytes": 25034,
+    "sha256": "8efa4c012b8e43a9414848278d161b2a3ac5df05d6031007c6c2b16bd9d294a1"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\paper_final_20260831\\model_code\\routing_sunxi_latest_20260901.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\paper_final_20260831\\model_code\\routing_sunxi_latest_20260901.py",
+    "bytes": 18112,
+    "sha256": "0b5d27b3cf7426532c28384c58ac174e89e216ec0fac56019ea77f20928fe10a"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\figure code\\plot_test_metrics_boxplots_wide.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\figure code\\plot_test_metrics_boxplots_wide.py",
+    "bytes": 27207,
+    "sha256": "121b8b5b87feb57f21f0ced379d9fc4d66702e24488711d05d2d6d518bf6f24c"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G1_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G1_hydrographs.csv",
+    "bytes": 14783320,
+    "sha256": "a88c96ad50bb018c29bebb27a7473c0a128e9616b8e901b988594a8f86e76012"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G2_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G2_hydrographs.csv",
+    "bytes": 14783007,
+    "sha256": "7de9028ff01afcec02549fb55253997b50c1bbd7fd493dcf06068d252d27f97c"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G3_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\05_extracted_flow\\corrected_full100_1km_warm72h\\G3_hydrographs.csv",
+    "bytes": 14783417,
+    "sha256": "27e02c9c064b92350ced04e535eecb951a4d73e12b3bbda92832e20b5e1bb3fb"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\calibrated_parameters_all48.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\calibrated_parameters_all48.csv",
+    "bytes": 26768,
+    "sha256": "908834e99683f747098f0115a2d33bec15ed8f8e35d2a9e6967061a9f2fbf587"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\inflow_manifest_100.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\inflow_manifest_100.csv",
+    "bytes": 29561,
+    "sha256": "80609028e19a889d3822d01586dd4e4596eb973a197b3a00add36580e53e49e8"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\parameter_boundary_diagnostics.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\parameter_boundary_diagnostics.csv",
+    "bytes": 722,
+    "sha256": "b9157ee67287a31afaf0bb9a7dbb355bade6272c21b0fd66310c61e5d1012838"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\test_event_metrics.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\random_inflow_generalization_100\\08_summary\\042_gpt_key_materials_corrected_full100\\data\\test_event_metrics.csv",
+    "bytes": 1005153,
+    "sha256": "c01d9357d5a47e58bdedb9de8932b4abcedbadd6f330d7803ef8b88d8cbfbe55"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Result\\多场率定\\数据\\当前笋溪河数据基准.md",
+    "snapshot": "07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\当前笋溪河数据基准.md",
+    "bytes": 658,
+    "sha256": "0c712ab9a4fd8f0691e463a9f3db95540c8ea086b2c8ba26de6235f0080ddcdf"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\input\\9场_F08上游洪量配平_去除空行快照.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\input\\9场_F08上游洪量配平_去除空行快照.csv",
+    "bytes": 36956,
+    "sha256": "29631206f58d9b42324e2bfcdee08e66c807091686063c8c9a8c5b7cf8c8eaa6"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\参数与假设.json",
+    "snapshot": "07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\参数与假设.json",
+    "bytes": 7480,
+    "sha256": "8648c3d81f9cb8d21fb4dc34bf23d7a42bab854b810e6d8ff653de7eccdab454"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\率定测试总体统计.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\率定测试总体统计.csv",
+    "bytes": 799,
+    "sha256": "88f8959b22d3fd948a632086a19689721b8ff5ec7b5e4f1a6f4fd008391194bd"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\输入快照.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\输入快照.csv",
+    "bytes": 36956,
+    "sha256": "29631206f58d9b42324e2bfcdee08e66c807091686063c8c9a8c5b7cf8c8eaa6"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\逐场三模型指标.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\逐场三模型指标.csv",
+    "bytes": 4094,
+    "sha256": "6badfa53cf85933436264d76867345e7087206bdb5c7c84a28f2e192204c5ec1"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\逐时三模型模拟.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\Result\\多场率定\\数据\\笋溪河_F08上游洪量配平数据直跑_20260920\\model_results\\逐时三模型模拟.csv",
+    "bytes": 156840,
+    "sha256": "52e8506a88079786ba5c06330e97fa88fd76fdc529b1afe27abfdfffb2f4711f"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0001_N035_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0001_N035_hydrographs.csv",
+    "bytes": 19651140,
+    "sha256": "ae05a3884423c6692ac5c5ed1751ab50a0fc5e938b5edfce8790528570bb22ec"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N025_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N025_hydrographs.csv",
+    "bytes": 19650364,
+    "sha256": "80a27157e857471d74effe1187cbe312a69cd7dc520a525fa0bba988e174d967"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N035_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N035_hydrographs.csv",
+    "bytes": 14783417,
+    "sha256": "27e02c9c064b92350ced04e535eecb951a4d73e12b3bbda92832e20b5e1bb3fb"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N050_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0002_N050_hydrographs.csv",
+    "bytes": 19448171,
+    "sha256": "bffe770837183a0a1349d58a8bca0e275142f847b1c7db742a850b6a13274b1d"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0005_N035_hydrographs.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\05_extracted_flow\\formal100\\S0005_N035_hydrographs.csv",
+    "bytes": 19650608,
+    "sha256": "932fff79b49e8da806a9d1f0de08422e8ec6870aa3be1cedcdc755bd4323e18c"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\overall_summary.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\overall_summary.csv",
+    "bytes": 85708,
+    "sha256": "36f44183faa3c52d38a3c61fd0d3a365fa1a0d8a3c9b9a6d5b7a19158cc58bdb"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\run_settings.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\run_settings.csv",
+    "bytes": 959,
+    "sha256": "d3bb2c3c853abfb0d56bd14a6fe42966ba419598474d3a6abffd61b987a3ecfa"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\target_output_manifest.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\08_summary\\002_roughness_slope_three_models\\target_output_manifest.csv",
+    "bytes": 28771,
+    "sha256": "dea52f92f7d96bce1c684bafc8a058528775107bc7f21e01355c90c24d42e877"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\roughness_slope_generalization_100\\06_calibration\\002_roughness_slope_three_models\\calibrated_parameters.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\roughness_slope_generalization_100\\06_calibration\\002_roughness_slope_three_models\\calibrated_parameters.csv",
+    "bytes": 34954,
+    "sha256": "2884f80d56243df52b5c8893e6beeed3e633a0e4ac33d1a4243b7e91d64d7fd6"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\routing.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\routing.py",
+    "bytes": 50781,
+    "sha256": "a2688718cd2779f5e28e6eed9776fd1857b3c207281673fb80b9d732d2192e6a"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\routing_aut_complement_3p.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\routing_aut_complement_3p.py",
+    "bytes": 39532,
+    "sha256": "67892d64374719df7b54aadef73b633a056a6ca22c5f220af06f2f74fd4e5404"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\routing_hecras_final.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\routing_hecras_final.py",
+    "bytes": 24284,
+    "sha256": "9b394851ff16d3c0cb28a8d41887681f0e6e5a02d24ca503fd92a1a6803944fb"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\routing_real10_final.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\routing_real10_final.py",
+    "bytes": 25034,
+    "sha256": "8efa4c012b8e43a9414848278d161b2a3ac5df05d6031007c6c2b16bd9d294a1"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\Code\\routing_nonlinear_muskingum_final.py",
+    "snapshot": "07_接续资料\\source_snapshot\\Code\\routing_nonlinear_muskingum_final.py",
+    "bytes": 17480,
+    "sha256": "e6b5bbba2cc7d43dada97d8e3e458939eb6efddc40c21a2bb0e7b1d2f2fece88"
+  },
+  {
+    "source": "E:\\01-HUST\\Nature\\03\\HECRAS\\data\\Qingjiang_flood_events.csv",
+    "snapshot": "07_接续资料\\source_snapshot\\HECRAS\\data\\Qingjiang_flood_events.csv",
+    "bytes": 6003,
+    "sha256": "5c9e11611f2ee7d8994ba35427feb932308b0c7dc00433b6cf16d46a090294c3"
+  }
+]

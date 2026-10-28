@@ -1,0 +1,20 @@
+{
+  "fonts": [
+    "Times New Roman",
+    "SimSun"
+  ],
+  "source_figure4_rows": 36,
+  "figure4_geometry_distance_pairs": 36,
+  "figure6_rows": [
+    36,
+    36
+  ],
+  "maximum_tick_km": 120,
+  "source_changes": "仅显示范围刻度和排版 数据未改动",
+  "figure7_combinations": 36,
+  "exports": [
+    "png 300dpi",
+    "editable svg",
+    "pdf TrueType"
+  ]
+}

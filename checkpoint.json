@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-28",
+  "stage": "第一轮修改和补充分析完成 核心对照尚未补算",
+  "completed": 8,
+  "open": 5,
+  "next": "任务A 复现清江基准及统一入流离散 实际参数边界",
+  "title": "保留原题",
+  "git_remote_status": "本快照通过GitHub连接上传 以远程main提交为准",
+  "resume_read": [
+    "README.md",
+    "00_返修总控与继续入口.md",
+    "01_任务安排/13条审稿意见任务台账.csv"
+  ],
+  "sources": 42,
+  "source_bytes": 139403427,
+  "manuscript_pages": 16,
+  "response_pages": 5,
+  "source_hash_check": "42/42通过",
+  "git_local_status": "已本地提交 远程地址待用户提供",
+  "primary_editable_document": "返修协作稿.md",
+  "format_preference": "Markdown与LaTeX协作 定稿后再导出Word",
+  "git_remote_url": "https://github.com/yangmoud-prog/shuilixuebao"
+}

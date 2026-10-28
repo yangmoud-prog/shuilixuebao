@@ -1,0 +1,28 @@
+{
+  "original_sha256": "1869e8b06ae1e57409b07900a543c8deaa8731f51c587846ea018125dc24d304",
+  "modified_package_parts": [
+    "[Content_Types].xml",
+    "word/_rels/document.xml.rels",
+    "word/document.xml",
+    "word/media/image10.png",
+    "word/media/image4.png",
+    "word/media/image8.jpeg",
+    "word/comments.xml"
+  ],
+  "original_math_count": 130,
+  "revised_math_count": 102,
+  "numbered_equations_found": 20,
+  "numbered_equations_byte_preserved": true,
+  "new_formula_count": 4,
+  "working_comments": 3,
+  "reviewer_comments": 13,
+  "closed_or_text_revised": 8,
+  "partially_completed_or_pending": 5,
+  "title": "保留原题",
+  "source_files_unchanged": true,
+  "rendering": "通过Word导出PDF并逐页检查 新图经字体大小及视觉检查",
+  "manuscript_pages": 16,
+  "response_pages": 5,
+  "font_preflight_exception": "通用检查器只接受无衬线字体 依作者要求覆盖为Times New Roman和宋体 PDF字形大小均通过",
+  "scope": "仅为返修工作版 核心对照及清江等5条仍待完成"
+}

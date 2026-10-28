@@ -1,0 +1,8 @@
+﻿model,parameter,lower_bound,upper_bound,minimum_fitted,maximum_fitted,optimization_scale,exact_lower_hits,exact_upper_hits,within_1pct_lower,within_1pct_upper
+LMCS,k,1e-06,100.0,0.0325255430526236,1.7654351966893345,log,0,0,0,0
+LMCS,n,0.01,300.0,2.1734130336258377,12.332237573911993,log,0,0,0,0
+LMCS,tau_h,0.0,150.0,0.0,24.34581928718193,linear,1,0,5,0
+Nonlinear Muskingum strict,T_ref_h,0.05,500.0,1.6088933044626026,122.8938974895791,log,0,0,0,0
+Nonlinear Muskingum strict,X,0.0,0.5,2.908417368885363e-07,0.2990301212612798,linear,0,0,1,0
+Nonlinear Muskingum strict,m,0.2,8.0,0.6327426147801025,2.903995348951842,log,0,0,0,0
+Linear Muskingum,K_h,0.5001,150.0,1.7630064039563098,44.99355090209319,log,0,0,0,0

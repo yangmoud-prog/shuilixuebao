@@ -1,0 +1,12 @@
+% 本轮新增公式 原稿现有公式在Word中保留可编辑OMML
+% 洪峰流量相对误差
+e_Q=\frac{Q_{\mathrm{p,sim}}-Q_{\mathrm{p,ref}}}{Q_{\mathrm{p,ref}}}\times100\%
+% 峰现时间误差
+e_t=t_{\mathrm{p,sim}}-t_{\mathrm{p,ref}}
+% 模型结构峰时分解
+\Delta T_{\mathrm{s}}=T_{\mathrm{p,sim}}-\tau
+e_t=T_{\mathrm{p,sim}}-T_{\mathrm{p,ref}}=(\tau-T_{\mathrm{p,ref}})+\Delta T_{\mathrm{s}}
+% 时段平均量的理论定义 以下为待统一数值实现的定义 不声称现有代码均已实现
+\bar I_{t-\tau}=\frac{1}{\Delta t}\int_{t-\tau-\Delta t}^{t-\tau}I(s)\,\mathrm{d}s
+% 对原互补式的等价表达 供核对参数解释
+S_t=(S_{W,t}^{-n}+S_{E,t}^{-n})^{-1/n}
